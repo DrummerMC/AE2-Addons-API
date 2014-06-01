@@ -17,30 +17,32 @@ public interface IEnergyGrid {
 	 * 
 	 * @param amount
 	 * @param actionable
-	 * @param type
 	 * @return he amount of energy that cant't be stored
 	 */
-	public double insertEnergy(double amount, Actionable actionable, EnergyType type);
+	public double insertEnergy(double amount, Actionable actionable);
 	/**
 	 * 
 	 * @param amount
 	 * @param actionable
-	 * @param type
 	 * @return the amount of energy that was extract
 	 */
-	public double extractEnergy(double amount, Actionable actionable, EnergyType type);
+	public double extractEnergy(double amount, Actionable actionable);
 	/**
 	 * 
-	 * @param type
 	 * @return the amount of stored energy
 	 */
-	public double getEnergy(EnergyType type);
+	public double getEnergy();
+	/**
+	 * 
+	 * @return the max Energy that can stored
+	 */
+	public double getMaxEnergy();
 	/**
 	 * 
 	 * @param list
-	 * @return the EnergyTypes that are Stored in this {@link TileEntity} or {@link IPart}
+	 * @return the EnergyType that is Stored in this {@link TileEntity} or {@link IPart}
 	 */
-	public List<EnergyType> getEnergyType(List list);
+	public EnergyType getEnergyType();
 	/**
 	 * 
 	 * @return the Channel Name
