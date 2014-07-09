@@ -1,6 +1,6 @@
-package DrummerMC.AE2_Addons.Api;
+package DrummerMC.Extra_Stuff.Api;
 
-import DrummerMC.AE2_Addons.Api.Grid.IEnergyStorageGrid;
+import DrummerMC.Extra_Stuff.Api.Grid.IEnergyStorageGrid;
 
 public interface IAE2AddonsAPI {
 }

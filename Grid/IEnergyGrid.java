@@ -1,11 +1,11 @@
 /**
  * 
  */
-package DrummerMC.AE2_Addons.Api.Grid;
+package DrummerMC.Extra_Stuff.Api.Grid;
 
 import java.util.List;
 
-import DrummerMC.AE2_Addons.Api.Util.EnergyType;
+import DrummerMC.Extra_Stuff.Api.Util.EnergyType;
 import appeng.api.config.Actionable;
 
 /**

@@ -1,4 +1,4 @@
-package DrummerMC.AE2_Addons.Api;
+package DrummerMC.Extra_Stuff.Api;
 
 public class AE2Addons {
 	static private IAE2AddonsAPI api = null;

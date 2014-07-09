@@ -1,7 +1,7 @@
-package DrummerMC.AE2_Addons.Api.EnergyStorage;
+package DrummerMC.Extra_Stuff.Api.EnergyStorage;
 
 import appeng.api.networking.IGrid;
-import DrummerMC.AE2_Addons.Api.Util.EnergyType;
+import DrummerMC.Extra_Stuff.Api.Util.EnergyType;
 
 public interface IStoredEnergy {
 	/**

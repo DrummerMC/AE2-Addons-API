@@ -1,7 +1,7 @@
 /**
  * 
  */
-package DrummerMC.AE2_Addons.Api.Util;
+package DrummerMC.Extra_Stuff.Api.Util;
 
 /**
  * @author DrummerMC

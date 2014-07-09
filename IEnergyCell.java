@@ -1,7 +1,7 @@
-package DrummerMC.AE2_Addons.Api;
+package DrummerMC.Extra_Stuff.Api;
 
 import appeng.api.config.Actionable;
-import DrummerMC.AE2_Addons.Api.Util.EnergyType;
+import DrummerMC.Extra_Stuff.Api.Util.EnergyType;
 import net.minecraft.item.ItemStack;
 
 public interface IEnergyCell {

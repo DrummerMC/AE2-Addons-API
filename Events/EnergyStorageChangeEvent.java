@@ -1,6 +1,6 @@
-package DrummerMC.AE2_Addons.Api.Events;
+package DrummerMC.Extra_Stuff.Api.Events;
 
-import DrummerMC.AE2_Addons.Api.Grid.IEnergyGrid;
+import DrummerMC.Extra_Stuff.Api.Grid.IEnergyGrid;
 import appeng.api.networking.events.MENetworkEvent;
 
 public class EnergyStorageChangeEvent extends MENetworkEvent {
