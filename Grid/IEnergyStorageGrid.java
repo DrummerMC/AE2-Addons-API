@@ -3,7 +3,7 @@
  */
 package DrummerMC.Extra_Stuff.Api.Grid;
 
-import DrummerMC.Extra_Stuff.Api.AE2Addons;
+import DrummerMC.Extra_Stuff.Api.Extrastuff;
 import DrummerMC.Extra_Stuff.Api.Util.EnergyType;
 import appeng.api.config.Actionable;
 import appeng.api.networking.IGridCache;
