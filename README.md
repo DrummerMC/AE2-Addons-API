@@ -1,2 +1,2 @@
-AE2-Addons-API
+Extra-Stuff-API
 ==============
